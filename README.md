@@ -1,5 +1,7 @@
 ## PokemonCrisis Client Side
 
+[![Build Status](https://travis-ci.com/PokemonCrisis/PokemonCrisis-Client.svg?branch=master)](https://travis-ci.com/PokemonCrisis/PokemonCrisis-Client)
+
 Navigation: [Website][1] | [Server repository][2] | **Client repository** | [Dex repository][3]
 
   [1]: http://pokemoncrisis.com/
